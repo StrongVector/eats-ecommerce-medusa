@@ -100,14 +100,6 @@ In `/backend` run:
 ```shell
 yarn setup-db
 ```
-
-This will also create an admin user with the following credentials:
-
-```
-email: admin@test.com
-pasword: supersecret
-```
-
 ### Start developing
 
 You are now ready to start up your project.
